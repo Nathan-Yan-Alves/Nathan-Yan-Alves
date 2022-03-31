@@ -20,3 +20,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+<br/>
+
+<img align="center" alt="Programming" src="https://media4.giphy.com/media/QuIxFwQo0RMT1tASlV/giphy.gif?cid=ecf05e47jh9msqtby9anhove6vlpsfd17pmpgotk7goerdh1&rid=giphy.gif&ct=g">
