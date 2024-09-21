@@ -1,4 +1,4 @@
-## Olá! Eu sou o Nathan 🤙
+## Olá! Eu sou o Nathan
 
 ### Contato
 
